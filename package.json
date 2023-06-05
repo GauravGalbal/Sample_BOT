@@ -1,0 +1,20 @@
+{
+  "name": "nomura_kakushin_sample",
+  "version": "1.0.0",
+  "description": "Nomura Kakushin Hackathons Sample files can be found here... this contains all sample files which are used to build the complete solution",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "Charlie_57",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "node-summary": "^1.2.0",
+    "nodemon": "^2.0.22",
+    "openai": "^3.2.1"
+  }
+}
